@@ -1,3 +1,21 @@
+![blocJamImg](/images/blocJamImg.png)
+Format: ![Alt Text](url)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Bloc Jams project is a culmination of the a series of UX Intensive Challenges where I concentrated on getting comfortable coding
 JavaScript, understanding what DOM scripting and JQuery library and to use these to create a functional music player that displays on web browser.
 To complete my education, I used Git and Github.
