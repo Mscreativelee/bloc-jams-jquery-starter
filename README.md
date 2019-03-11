@@ -1,5 +1,5 @@
-![blocJamImg](\bloc\blocJamImg.png)
 
+<img src="assets/images/blocJamImg.png" alt="bloc jams screenshot">
 
 
 The Bloc Jams project is a culmination of the a series of UX Intensive Challenges where I concentrated on getting comfortable coding
