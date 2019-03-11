@@ -1,18 +1,4 @@
-![blocJamImg](/bloc/blocJamImg.png)
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![blocJamImg](\bloc\blocJamImg.png)
 
 
 
